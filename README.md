@@ -2,7 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-<h2> Certifications </h2>
+<h2> Certifications & Accomplishments </h2>
+
 
 <h2> Connect with me:</h2>
 https://www.linkedin.com/in/damion-barney/
